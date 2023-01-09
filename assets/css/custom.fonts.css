@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Gilroy-Regular";
+  src: url("assets/css/webfonts/Gilroy-Regular.eot") format("eot") ,
+  url("assets/css/webfonts/Gilroy-Regular.woff") format("woff") ,
+  url("assets/css/webfonts/Gilroy-Regular.ttf") format("truetype") ,
+  url("assets/css/webfonts/Gilroy-Regular.svg#Gilroy-Regular") format("svg") ;
+}
+@font-face {
+  font-family: "LightPixel-7";
+  src: url("assets/css/webfonts/LightPixel-7.eot") format("eot") ,
+  url("assets/css/webfonts/LightPixel-7.woff") format("woff") ,
+  url("assets/css/webfonts/LightPixel-7.ttf") format("truetype") ,
+  url("assets/css/webfonts/LightPixel-7.svg#LightPixel-7") format("svg") ;
+}  

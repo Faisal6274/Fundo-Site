@@ -1,0 +1,148 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+
+/* Lg device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.header-info ul li {
+	margin-right: 15px;
+}
+.main-menu nav ul li {
+	margin-left: 25px;
+}
+.back-text {
+	font-size: 200px;
+}
+.s-back-title {
+	font-size: 80px;
+}
+.s-back-title.s-bg-title {
+	font-size: 200px;
+	top: -103px;
+}
+.up-event-btn {
+	margin-top: 30px;
+}
+.single-fact h1 {
+	font-size: 55px;
+}
+.footer-widget {
+	padding-left: 0;
+}
+
+}
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.up-event-btn {
+	margin-top: 30px;
+}	
+.footer-widget {
+	padding-left: 0;
+}
+.header-info ul li.header-info-last {
+	display: none;
+}
+.header-btn {
+	margin-right: 90px;
+	margin-top: 15px;
+}
+.logo {
+	/* transform: translateY(6px); */
+	margin-top: 5px;
+}
+.back-text {
+	font-size: 150px;
+}
+.hero-wrapper h2 {
+	font-size: 60px;
+}
+.slider-hight {
+	min-height: 800px;
+}
+.hero-wrapper {
+	margin-top: 170px;
+}
+.s-back-title.s-bg-title {
+	font-size: 140px;
+	top: -68px;
+}
+.up-event-content h3 {
+	font-size: 32px;
+}
+.single-fact h1 {
+	font-size: 45px;
+}
+
+}
+/* small mobile :320px. */
+@media (max-width: 767px) {
+.up-event-btn {
+	margin-top: 30px;
+}	
+.footer-widget {
+	padding-left: 0;
+}
+.mean-container a.meanmenu-reveal {
+	margin-top: -34px;
+}
+.hero-wrapper h2 {
+	font-size: 44px;
+}
+.hero-wrapper h2 br {
+	display: none;
+}
+.slider-hight {
+	min-height: 700px;
+}
+.hero-wrapper {
+	margin-top: 170px;
+}  
+.back-text {
+	font-size: 80px;
+}
+.s-back-title {
+	font-size: 80px;
+}
+.section-title h2 {
+	font-size: 35px;
+	line-height: 40px;
+}
+.section-title h2 br {
+	display: none;
+}
+.testimonial-active {
+	margin-bottom: 30px;
+}
+.s-back-title.s-bg-title {
+	font-size: 80px;
+	top: -40px;
+}
+.up-date {
+	float: none;
+	width: 100%;
+	margin-bottom: 20px;
+}
+.up-event-content h3 {
+	font-size: 28px;
+}
+.single-fact {
+	border: 0;
+	padding: 40px 0;
+}
+.single-fact h1 {
+	font-size: 60px;
+}
+.copyright-text {
+	margin-bottom: 20px;
+}
+
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 550px) and (max-width: 767px) {
+ 
+}
